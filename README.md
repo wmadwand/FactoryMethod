@@ -1,2 +1,2 @@
-# FactoryMethod
+# FactoryMethodPattern
 C# sample
