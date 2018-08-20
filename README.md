@@ -1,1 +1,2 @@
 # FactoryMethod
+C# sample
